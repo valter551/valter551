@@ -72,25 +72,11 @@ Website institucional desenvolvido em 2025 com React, TypeScript, Vite e Tailwin
   <br />
   <img src="https://skillicons.dev/icons?i=supabase,wordpress,linux,windows,powershell,git,github,vite,vercel,netlify" alt="Supabase, WordPress, Linux, Windows, PowerShell, Git, GitHub, Vite, Vercel e Netlify" />
   <img src="https://cdn.simpleicons.org/apachesuperset/20A6C9" width="48" height="48" alt="Apache Superset" />
+  <br />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=zabbix,grafana,n8n,sqlserver,api,windows,ai" alt="Zabbix, Grafana, n8n, SQL Server, APIs, Windows e inteligência artificial" />
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="100"><img src="https://api.iconify.design/mdi:server-network.svg?color=%230078D4" height="48" alt="Hyper-V" /><br />Hyper-V</td>
-    <td align="center" width="100"><img src="https://api.iconify.design/logos:zabbix.svg" height="40" alt="Zabbix" /><br />Zabbix</td>
-    <td align="center" width="100"><img src="https://api.iconify.design/mdi:ticket-account.svg?color=%232C3E50" height="48" alt="GLPI" /><br />GLPI</td>
-    <td align="center" width="100"><img src="https://api.iconify.design/mdi:headset.svg?color=%2334495E" height="48" alt="ITSM" /><br />ITSM</td>
-    <td align="center" width="100"><img src="https://api.iconify.design/mdi:api.svg?color=%230A7EA4" height="48" alt="APIs" /><br />APIs</td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" alt="SQL Server" /><br />SQL Server</td>
-    <td align="center" width="100"><img src="https://api.iconify.design/logos:n8n.svg" height="40" alt="n8n" /><br />n8n</td>
-    <td align="center" width="100"><img src="https://api.iconify.design/logos:grafana.svg" height="48" alt="Grafana" /><br />Grafana</td>
-    <td align="center" width="100"><img src="https://api.iconify.design/mdi:brain.svg?color=%236C5CE7" height="48" alt="LLMs" /><br />LLMs</td>
-  </tr>
-</table>
-
-**Também trabalho com:** integração do Zabbix com Telegram, IA, noções básicas de TDD e DDD e wireframing.
+**Também trabalho com:** Hyper-V, GLPI/ITSM, integração do Zabbix com Telegram, LLMs, noções básicas de TDD e DDD e wireframing.
 
 ## Idiomas
 
