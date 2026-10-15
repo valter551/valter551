@@ -72,9 +72,20 @@ Website institucional desenvolvido em 2025 com React, TypeScript, Vite e Tailwin
   <br />
   <img src="https://skillicons.dev/icons?i=supabase,wordpress,linux,windows,powershell,git,github,vite,vercel,netlify" alt="Supabase, WordPress, Linux, Windows, PowerShell, Git, GitHub, Vite, Vercel e Netlify" />
   <img src="https://cdn.simpleicons.org/apachesuperset/20A6C9" width="48" height="48" alt="Apache Superset" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Hyper-V" />
+  <img src="https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge" alt="Zabbix" />
+  <img src="https://img.shields.io/badge/GLPI-2C3E50?style=for-the-badge" alt="GLPI" />
+  <img src="https://img.shields.io/badge/ITSM-34495E?style=for-the-badge" alt="ITSM" />
+  <br />
+  <img src="https://img.shields.io/badge/APIs-0A7EA4?style=for-the-badge" alt="APIs" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/LLMs-6C5CE7?style=for-the-badge" alt="LLMs" />
 </div>
 
-**Também trabalho com:** SQL Server, APIs, GLPI/ITSM, n8n, Hyper-V, Zabbix com integração a Telegram e Grafana, IA e LLMs, noções básicas de TDD e DDD e wireframing.
+**Também trabalho com:** integração do Zabbix com Telegram, IA, noções básicas de TDD e DDD e wireframing.
 
 ## Idiomas
 
