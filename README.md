@@ -69,6 +69,8 @@ Website institucional desenvolvido em 2025 com React, TypeScript, Vite e Tailwin
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,bootstrap,react,tailwind,sqlserver,supabase,wordpress,linux,windows,powershell,git,github,vite,vercel,netlify" alt="Tecnologias e ferramentas" />
+  <br />
+  <img src="https://img.shields.io/badge/Apache%20Superset-1F1F1F?style=for-the-badge&logo=apachesuperset&logoColor=20A6C9" alt="Apache Superset" />
 </div>
 
 **Também trabalho com:** Apache Superset, APIs, GLPI/ITSM, n8n, Hyper-V, Zabbix com integração a Telegram e Grafana, IA e LLMs, noções básicas de TDD e DDD e wireframing.
