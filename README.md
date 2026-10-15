@@ -71,7 +71,7 @@ Website institucional desenvolvido em 2025 com React, TypeScript, Vite e Tailwin
   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,bootstrap,react,tailwind,sqlserver,supabase,wordpress,linux,windows,powershell,git,github,vite,vercel,netlify" alt="Tecnologias e ferramentas" />
 </div>
 
-**Também trabalho com:** APIs, GLPI/ITSM, n8n, Hyper-V, Zabbix com integração a Telegram e Grafana, IA e LLMs, noções básicas de TDD e DDD e wireframing.
+**Também trabalho com:** Apache Superset, APIs, GLPI/ITSM, n8n, Hyper-V, Zabbix com integração a Telegram e Grafana, IA e LLMs, noções básicas de TDD e DDD e wireframing.
 
 ## Idiomas
 
