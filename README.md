@@ -79,7 +79,7 @@ Website institucional desenvolvido em 2025 com React, TypeScript, Vite e Tailwin
 ## Idiomas
 
 - **Português:** nativo
-- **Inglês:** A1–A2
+- **Inglês:** Intermediário
 
 ## GitHub
 
