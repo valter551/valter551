@@ -72,18 +72,23 @@ Website institucional desenvolvido em 2025 com React, TypeScript, Vite e Tailwin
   <br />
   <img src="https://skillicons.dev/icons?i=supabase,wordpress,linux,windows,powershell,git,github,vite,vercel,netlify" alt="Supabase, WordPress, Linux, Windows, PowerShell, Git, GitHub, Vite, Vercel e Netlify" />
   <img src="https://cdn.simpleicons.org/apachesuperset/20A6C9" width="48" height="48" alt="Apache Superset" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Hyper-V" />
-  <img src="https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge" alt="Zabbix" />
-  <img src="https://img.shields.io/badge/GLPI-2C3E50?style=for-the-badge" alt="GLPI" />
-  <img src="https://img.shields.io/badge/ITSM-34495E?style=for-the-badge" alt="ITSM" />
-  <br />
-  <img src="https://img.shields.io/badge/APIs-0A7EA4?style=for-the-badge" alt="APIs" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/LLMs-6C5CE7?style=for-the-badge" alt="LLMs" />
 </div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="100"><img src="https://api.iconify.design/mdi:server-network.svg?color=%230078D4" height="48" alt="Hyper-V" /><br />Hyper-V</td>
+    <td align="center" width="100"><img src="https://api.iconify.design/logos:zabbix.svg" height="40" alt="Zabbix" /><br />Zabbix</td>
+    <td align="center" width="100"><img src="https://api.iconify.design/mdi:ticket-account.svg?color=%232C3E50" height="48" alt="GLPI" /><br />GLPI</td>
+    <td align="center" width="100"><img src="https://api.iconify.design/mdi:headset.svg?color=%2334495E" height="48" alt="ITSM" /><br />ITSM</td>
+    <td align="center" width="100"><img src="https://api.iconify.design/mdi:api.svg?color=%230A7EA4" height="48" alt="APIs" /><br />APIs</td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" alt="SQL Server" /><br />SQL Server</td>
+    <td align="center" width="100"><img src="https://api.iconify.design/logos:n8n.svg" height="40" alt="n8n" /><br />n8n</td>
+    <td align="center" width="100"><img src="https://api.iconify.design/logos:grafana.svg" height="48" alt="Grafana" /><br />Grafana</td>
+    <td align="center" width="100"><img src="https://api.iconify.design/mdi:brain.svg?color=%236C5CE7" height="48" alt="LLMs" /><br />LLMs</td>
+  </tr>
+</table>
 
 **Também trabalho com:** integração do Zabbix com Telegram, IA, noções básicas de TDD e DDD e wireframing.
 
